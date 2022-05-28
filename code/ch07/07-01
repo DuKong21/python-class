@@ -1,0 +1,12 @@
+def h():
+    print("\thrllo python")
+def hint():
+    print("\t", 77)
+print('h호출')
+h()
+print("h이후")
+
+print(1)
+print(hint)
+hint()
+print(3)
